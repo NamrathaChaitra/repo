@@ -5,12 +5,12 @@
       <![CDATA[Hi]]>
     </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="63" started-at="2017-07-16T09:57:31Z" finished-at="2017-07-16T09:57:31Z">
+  <suite name="Suite" duration-ms="93" started-at="2017-07-16T15:24:23Z" finished-at="2017-07-16T15:24:24Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="63" started-at="2017-07-16T09:57:31Z" finished-at="2017-07-16T09:57:31Z">
+    <test name="Test" duration-ms="93" started-at="2017-07-16T15:24:23Z" finished-at="2017-07-16T15:24:24Z">
       <class name="com.actitime.tests.MavenDemo">
-        <test-method status="PASS" signature="testA()[pri:0, instance:com.actitime.tests.MavenDemo@380fb434]" name="testA" duration-ms="32" started-at="2017-07-16T15:27:31Z" finished-at="2017-07-16T15:27:31Z">
+        <test-method status="PASS" signature="testA()[pri:0, instance:com.actitime.tests.MavenDemo@380fb434]" name="testA" duration-ms="31" started-at="2017-07-16T20:54:23Z" finished-at="2017-07-16T20:54:24Z">
           <reporter-output>
             <line>
               <![CDATA[Hi]]>
