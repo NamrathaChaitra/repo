@@ -1,5 +1,12 @@
 package com.actitime.tests;
 
-public class TestB {
+import org.testng.Reporter;
+import org.testng.annotations.Test;
 
+public class TestB {
+	@Test
+	public void testA(){
+		Reporter.log("Hi",true);
+		
+}
 }
